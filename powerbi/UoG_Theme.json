@@ -1,0 +1,16 @@
+{
+  "name": "University of Galway HR Analytics",
+  "dataColors": [
+    "#8B1A2E",
+    "#1F4E79",
+    "#C9A87C",
+    "#5CB85C",
+    "#F0AD4E",
+    "#D9534F",
+    "#6C757D",
+    "#2C7BB6"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#4A4A4A",
+  "tableAccent": "#8B1A2E"
+}
