@@ -9,6 +9,19 @@
 
 ---
 
+## Power BI Dashboard Screenshots
+
+| Page | Preview |
+|------|---------|
+| Executive Summary | ![Executive Summary](screenshots/01_executive_summary.png) |
+| Workforce & Demographics | ![Workforce](screenshots/02_workforce_demographics.png) |
+| Absence & Wellbeing | ![Absence](screenshots/03_absence_wellbeing.png) |
+| Recruitment | ![Recruitment](screenshots/04_recruitment.png) |
+| Gender Pay Gap Report | ![GPG](screenshots/05_gender_pay_gap.png) |
+| Training & Compliance | ![Training](screenshots/06_training_compliance.png) |
+
+---
+
 ## Overview
 
 End-to-end workforce analytics solution built on real Irish HEI sector data (HEA Staff Profiles 2023, CSO Earnings and Labour Costs Q4 2024) and statistically calibrated synthetic operational records. Designed to mirror the analytics function of a university HR department.
